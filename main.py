@@ -1,9 +1,4 @@
 def greetWhite():
-    print("hello everyone")
+    print("hello white")
 
-def greetBlack():
-    print("hello black")
-
-print("hello everyone")
-greetWhite()
-greetBlack()
+print("hello")
