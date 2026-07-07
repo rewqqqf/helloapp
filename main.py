@@ -3,3 +3,7 @@ def greetWhite():
 
 def greetBlack():
     print("hello black")
+
+print("hello everyone")
+greetWhite()
+greetBlack()
